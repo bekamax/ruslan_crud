@@ -1,0 +1,12 @@
+.navbar{
+    background-color: blueviolet;
+    color: white;
+    padding: 20px;
+
+}
+.navbar a{
+    font-size: 20px;
+    text-decoration: none;
+    color: white ;
+    padding: 10px;
+}
